@@ -1,16 +1,8 @@
 # minigame
 
-A new Flutter project.
+แอพพลิเคชั่นนี้เป็นแอพที่ได้ทำตอนสหกิจศึกษาอยู่เนี่ย โดยได้รับมอบหายให้ลองทำแอพมินิเกมจากfutter โดนใช้AI ผ่าน Bolt.diy
+ในการทำเกือบทั้งหมดแและแก้ไขปรับปรุงเองในบ้างส่วนที่เกิดบัค โดยมีเกมทั้งหมด Flappy Bird, Snake Game, Block Breake
 
-## Getting Started
+#Teck Stack
+Flutter (Dart) + Bolt.diy (AI-assisted coding)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
